@@ -1,0 +1,2 @@
+product_id,institute,model,experiment,frequency,modeling_realm,mip_table,ensemble_member,variable,temporal_subset,version,path
+output,NOAA-GFDL,GFDL-ESM4,historical,mon,atmos,Amon,r1i1p1,tas,195001-201412,v20190726,s3://gfdl-esgf/CMIP6/CMIP/NOAA-GFDL/GFDL-ESM4/historical/r1i1p1f1/Amon/tas/gr1/v20190726/
